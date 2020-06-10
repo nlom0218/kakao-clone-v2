@@ -1,3 +1,18 @@
+/*/.status-bar {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  background-color: #fcfcfc;
+  border: 1px solid #f7f7f7;
+  padding: 10px 20px;
+}
+
+.status-bar {
+  display: flex;
+  justify-content: space-between;
+}*/
+
 .status-bar {
   display: flex;
   justify-content: space-between;
