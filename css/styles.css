@@ -9,6 +9,8 @@
 @import "more.css";
 @import "settings.css";
 @import "chat.css";
+@import "moblie.css";
+
 * {
   box-sizing: border-box;
 }
